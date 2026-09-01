@@ -1,6 +1,6 @@
 # Form UX Skill
 
-Form UX Skill is a reusable instruction repository for filesystem-based coding agents. It helps an agent design, implement, audit, and repair web forms by reasoning about domain data, browser semantics, localization, accessibility, validation, security, mobile input, and recovery—not merely appearance.
+Form UX Skill is a reusable instruction repository for filesystem-based coding agents. It helps an agent design, implement, audit, and repair web forms by reasoning about domain data, browser semantics, localization, accessibility, validation, security, mobile input, and recovery not merely appearance.
 
 It is not a UI component library and does not prescribe a framework. The instructions tell an agent to adapt to React, Next.js, Vue, Nuxt, Svelte, SvelteKit, plain HTML/JavaScript, TypeScript, Tailwind, shadcn/ui, component libraries, and custom design systems already present in a project.
 
